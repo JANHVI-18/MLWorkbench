@@ -1,5 +1,7 @@
 # MLWorkbench
 
+## 🔗 Live Project: [Click here to open](https://mlworkbench-wweacge8tfg5jmy8dzvn7f.streamlit.app/)
+
 MLWorkbench is an intuitive and feature-rich platform designed to streamline the machine learning (ML) workflow, from data preprocessing to model deployment. It provides an interactive environment for ML practitioners, researchers, and students to experiment, analyze, and deploy machine learning models with ease.
 
 ## 🚀 Features
